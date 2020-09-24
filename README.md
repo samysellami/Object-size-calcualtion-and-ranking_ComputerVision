@@ -1,1 +1,1 @@
-# Object-size-calcualtion-and-ranking_ComputerVision
+# Adaptive thresholding from scratch and Object size calcualtion and ranking
